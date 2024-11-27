@@ -66,7 +66,7 @@ Steps:
     cd frontend
     npm run dev
 
-This will start both the backend and frontend, and you can now access the application by visiting http://localhost:3000 in your browser.
+This will start both the backend and frontend, and you can now access the application by visiting http://localhost:8000 in your browser.
 
 Usage 🚀
 
